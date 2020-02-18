@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AfandaPrinterTest</string>
+    <string name="PRINT_ERR1">Yazıcı hatası! :\n Diğer bilinmeyen hata! </string>
+    <string name="PRINT_ERR2">Yazıcı hatası! :\n Yazıcı kağıdı yok!</string>
+    <string name="PRINT_ERR3">Yazıcı hatası! :\n FEED tuşu basıldı!</string>
+    <string name="PRINT_ERR4">Yazıcı hatası! :\n Yazıcı kapağı açıldı! </string>
+    <string name="new30">Yazdırma başarılı!</string>
+    <string name="new16" >Seri bağlantı yapılamadı, lütfen COM ve BAUD RATE ayarını kontrol edin! </string>
+</resources>
